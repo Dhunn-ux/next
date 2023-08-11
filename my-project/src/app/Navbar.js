@@ -1,7 +1,9 @@
 import React from "react";
-
-
-
+import Link from 'next/link'
+import about from'./about'
+import './contact'
+import './home'
+import './services'
 <body className="bg-gray-100">
 
 <div className="bg-white shadow-md">
