@@ -6,11 +6,11 @@ import React from "react"
 export default function Home() {
   return (
     <div className= "bg-white">
-    <h1 className="text-3xl font-bold underline bg-white">
+    <h1 className="text-3xl font-bold underline bg-white treanlate-x-24">
       <header className="text-Blue-600 body-font">
   <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-    <img src="0.image/logos.jpg" alt="Your Logo Description"/>
+    <img className=" h-16 -mt-6 w-70 -translate-x-26  translate-y-4 "src="loga.jpg" alt="Your Logo Description"/>
 
       
       <span className="ml-3 text-xl">Tarun</span>
